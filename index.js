@@ -30,7 +30,7 @@ function hasTargetSum(array, target) {
 
 /*
   Add written explanation of your solution here
-  we go through the array once and check if the tested values includes the has the tageted value minus current value in array and return true if it does
+  going through the array once and see if then values include the has the tageted value minus current value in our array and return true if its true
 */
 
 // You can run `node index.js` to view these console logs
